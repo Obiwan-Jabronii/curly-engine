@@ -6,3 +6,4 @@ The rough draft of my professional portfolio so that I will be able to include i
 ## Languages used
 HTML and CSS
 
+<img src="assets/images/Screenshot (1).png">
